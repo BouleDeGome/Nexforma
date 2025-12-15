@@ -5,7 +5,7 @@ salles de classes, l’objectif est donc de séparer et d’isoler deux réseaux
 l’équipe de l’entreprise, l’autre aux étudiants de la formation. Pour ce faire nous
 utiliserons une technologie utilisée pour séparer des réseaux en plusieurs sous
 réseaux, les “Vlans”. Nous mettrons en place d’autres services d’administration et de
-sécurité
+sécurité.
 
 # Schéma réseau
 
